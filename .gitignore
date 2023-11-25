@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+trainml/
+venv/
+.env/
+frames/
+hasilrecord/
+test/
+train/
+
+
+# Installers / packages
+*.egg
+dist/
+build/
+*.egg-info/
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+.project
+.cproject
+.pycproject
+.ropeproject
+
+# Miscellaneous
+.*.swp
+.DS_Store

@@ -1,0 +1,3 @@
+car Count: 56
+motorbike Count: 0
+bicycle Count: 0
